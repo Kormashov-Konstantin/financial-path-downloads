@@ -1,7 +1,8 @@
 {
-  "versionName": "1.0.18",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.18/FinancialPath-1.0.18.apk",
-  "sha256": "b7fdd5753dd395346704450dd84903970b613714430b7022aa53b2c3753c4f97",
-  "notes": "Публичный канал обновлений, исправления и улучшения."
+  "versionName": "1.0.19",
+  "versionCode": 21,
+  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.19/FinancialPath-1.0.19.apk",
+  "sha256": "7efc0e79e341452d3c17969c23168e0925814b11532857a383c38d8d785a1223",
+  "sizeBytes": 9175608,
+  "notes": "Понятный процесс обновления: видимый прогресс загрузки, проверка файла и отдельная кнопка установки."
 }
