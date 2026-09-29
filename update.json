@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.19",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.19/FinancialPath-1.0.19.apk",
-  "sha256": "7efc0e79e341452d3c17969c23168e0925814b11532857a383c38d8d785a1223",
-  "sizeBytes": 9175608,
-  "notes": "Понятный процесс обновления: видимый прогресс загрузки, проверка файла и отдельная кнопка установки."
+  "versionName": "1.0.20",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.20/FinancialPath-1.0.20.apk",
+  "sha256": "c448378a8ac7a27315571ea5b144c54a289c169d88d57f8fa27dc52aa173c71b",
+  "sizeBytes": 9181788,
+  "notes": "Универсальное распределение обычного дохода по счетам целыми рублями и ручной разбор неоднозначных операций в импорте Сбера с staged-подтверждением."
 }
