@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.32",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.32/FinancialPath-1.0.32.apk",
-  "sha256": "01323099e1e0d0a36d9847b77edd56b972cbd3a351fbfb522ede68d0184caede",
-  "sizeBytes": 9222809,
-  "notes": "Исправлена проверка SMS 900: уже учтённые покупки автоматически исчезают из очереди без повторных списаний. Улучшена защита от дублей. Все проверки и APK-сборка выполнены локально на Mac."
+  "versionName": "1.0.33",
+  "versionCode": 35,
+  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.33/FinancialPath-1.0.33.apk",
+  "sha256": "c42e791c1261b4b560699c11d223a8604375d68172631a03d393a88f5b0dae62",
+  "sizeBytes": 9229904,
+  "notes": "Добавлен «Финансовый план» — предварительный расчёт от текущих остатков: деньги на жизнь, будущее жильё, накопления и свободный запас. Можно посмотреть поступления по SMS, прогноз и сохранить черновик. Черновик не создаёт доход, не распределяет деньги и не выполняет переводов. Прежние финансовые операции и SMS-учёт сохранены. Проверки, подпись и сборка APK выполнены на Mac."
 }
