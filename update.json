@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.39",
-  "versionCode": 41,
-  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.39/FinancialPath-1.0.39.apk",
-  "sha256": "5054ac027be9e13067519c64726608bf8d99aaf696d22655370765626088522f",
-  "sizeBytes": 9248076,
-  "notes": "SMS 900: отпускные можно оформить прямо из поступления или входящего перевода в резерв следующей зарплаты. Дата зарплаты выбирается в той же SMS-карточке. Суммы зачисляются в резерв с копейками; повторное начисление заблокировано."
+  "versionName": "1.0.40",
+  "versionCode": 42,
+  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.40/FinancialPath-1.0.40.apk",
+  "sha256": "5bf6ed582e12418d9836fc8bf143550b671f02462f9638ff0503435415ca3486",
+  "sizeBytes": 9248668,
+  "notes": "SMS 900: в подробной проверке входящего поступления добавлен пункт «Отпускные → резерв следующей зарплаты», выбор даты и подтверждение прямо в том же окне. Поддержаны поступления, ошибочно определённые как переводы. Защита от повторного начисления сохранена."
 }
