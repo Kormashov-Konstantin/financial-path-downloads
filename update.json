@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.38",
-  "versionCode": 40,
-  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.38/FinancialPath-1.0.38.apk",
-  "sha256": "40b2b0a0021a1edd15d68fbeca9ff4d38b67a601ef1a2e12e7de0698a8deb822",
-  "sizeBytes": 9245700,
-  "notes": "Исправлен выбор категорий в SMS 900: раскрывающийся список с поиском, быстрые категории и создание новых категорий с группами прямо во всплывающем окне. Категории доступны для будущих покупок и аналитики. Прежние расходы и остатки не изменяются."
+  "versionName": "1.0.39",
+  "versionCode": 41,
+  "apkUrl": "https://github.com/Kormashov-Konstantin/financial-path-downloads/releases/download/v1.0.39/FinancialPath-1.0.39.apk",
+  "sha256": "5054ac027be9e13067519c64726608bf8d99aaf696d22655370765626088522f",
+  "sizeBytes": 9248076,
+  "notes": "SMS 900: отпускные можно оформить прямо из поступления или входящего перевода в резерв следующей зарплаты. Дата зарплаты выбирается в той же SMS-карточке. Суммы зачисляются в резерв с копейками; повторное начисление заблокировано."
 }
